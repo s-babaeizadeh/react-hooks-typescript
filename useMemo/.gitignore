@@ -22,3 +22,6 @@ next-env.d.ts
 .husky/
 
 README.md
+
+# Ignore all .log files
+*.log
