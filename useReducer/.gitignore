@@ -18,7 +18,7 @@ next-env.d.ts
 
 #history
 .github/
-.history/
+.history
 .husky/
 
 README.md
