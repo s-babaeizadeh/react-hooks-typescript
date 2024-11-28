@@ -35,7 +35,7 @@ const App = () => {
       <h1 ref={changeColorRef} className="text-orange-500 font-bold">
         Applying useRef in React App
       </h1>
-      <h2 onClick={handleClick} className="py-3">
+      <h2 onClick={handleClick} className="py-3 font-medium">
         Click here to change color
       </h2>
       <div className="flex flex-col gap-5">
